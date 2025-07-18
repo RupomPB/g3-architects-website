@@ -235,6 +235,19 @@
     font-weight: 700;
 }
 
+/* footer css */
+footer{
+    background-color: #FFF4E7;
+    margin-top: 100px;
+    
+
+}
+
+footer h6{
+    font-size: 1.5rem;
+    padding: 39px 0px 39px 0;
+    text-align: center;
+}
 /* responsive quary */
 @media screen and  ( max-width: 576px ) {
     .navbar,
